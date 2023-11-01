@@ -1,0 +1,171 @@
+Order ID,Date,Sales channel,Billing country,Billing region,Billing city,Product type,Product,Net quantity,Gross sales,Discounts,Returns,Net sales,Shipping,Taxes,Total sales
+1954050000000.0,2020-01-02T00:21:04-06:00,Online Store,Canada,Saskatchewan,Dalmeny,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,20.9,2.24,23.14
+1954050000000.0,2020-01-02T00:21:04-06:00,Online Store,Canada,Saskatchewan,Dalmeny,Vitamin B12,MYSHROOMS ENERGY,1,39.99,0.0,0.0,39.99,0.0,1.99,41.98
+1954800000000.0,2020-01-02T15:17:24-06:00,Online Store,Canada,Alberta,Niton Junction,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,3.99,83.97
+1954800000000.0,2020-01-02T15:17:24-06:00,Online Store,Canada,Alberta,Niton Junction,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,20.7,1.04,21.74
+1957830000000.0,2020-01-04T09:47:50-06:00,Online Store,Canada,Ontario,Tillsonburg,MyPain LiniMint,MyPain LiniMint,12,479.88,0.0,0.0,479.88,0.0,62.38,542.26
+1957830000000.0,2020-01-04T09:47:50-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Immunity,MyShrooms Immunity,6,239.94,0.0,0.0,239.94,0.0,31.2,271.14
+1957830000000.0,2020-01-04T09:47:50-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Defence,MyShrooms Defence,6,239.94,0.0,0.0,239.94,0.0,31.19,271.13
+1957830000000.0,2020-01-04T10:13:47-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Defence,MyShrooms Defence,-6,0.0,0.0,-239.94,-239.94,0.0,-31.19,-271.13
+1957830000000.0,2020-01-04T10:13:47-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Immunity,MyShrooms Immunity,-6,0.0,0.0,-239.94,-239.94,0.0,-31.2,-271.14
+1957830000000.0,2020-01-04T10:13:47-06:00,Online Store,Canada,Ontario,Tillsonburg,MyPain LiniMint,MyPain LiniMint,-12,0.0,0.0,-479.88,-479.88,0.0,-62.38,-542.26
+1962790000000.0,2020-01-08T10:16:58-06:00,Online Store,Canada,Ontario,Cobourg,MyShrooms Immunity,MyShrooms Immunity,4,159.96,0.0,0.0,159.96,0.0,20.79,180.75
+1962790000000.0,2020-01-08T10:16:58-06:00,Online Store,Canada,Ontario,Cobourg,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,20.9,2.72,23.62
+1967130000000.0,2020-01-11T21:28:10-06:00,Online Store,Canada,Alberta,Olds,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,17.84,0.89,18.73
+1967130000000.0,2020-01-11T21:28:10-06:00,Online Store,Canada,Alberta,Olds,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+1990300000000.0,2020-01-30T18:02:04-06:00,Online Store,Canada,British Columbia,Powell River,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,4.0,83.98
+1990300000000.0,2020-01-30T18:02:04-06:00,Online Store,Canada,British Columbia,Powell River,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,17.75,2.07,19.82
+1990420000000.0,2020-01-30T20:07:02-06:00,Online Store,Canada,British Columbia,White Rock,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,12.22,1.42,13.64
+1990420000000.0,2020-01-30T20:07:02-06:00,Online Store,Canada,British Columbia,White Rock,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+1993810000000.0,2020-02-02T16:03:11-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.46,2.03,19.49
+1993810000000.0,2020-02-02T16:03:11-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+1995900000000.0,2020-02-04T10:47:55-06:00,Online Store,Canada,Alberta,Tomahawk,MyShrooms Immunity,MyShrooms Immunity,0,0.0,0.0,0.0,0.0,21.83,1.09,22.92
+1995900000000.0,2020-02-04T10:47:55-06:00,Online Store,Canada,Alberta,Tomahawk,MyShrooms Immunity,MyShrooms Immunity,3,119.97,0.0,0.0,119.97,0.0,6.0,125.97
+2022260000000.0,2020-02-23T17:28:41-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2022260000000.0,2020-02-23T17:28:41-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.88,1.91,19.79
+2026750000000.0,2020-02-27T10:03:03-06:00,Online Store,Canada,Ontario,Halton Hills,MyShrooms Defence,MyShrooms Defence,3,119.97,-20.0,0.0,99.97,0.0,12.99,112.96
+2026750000000.0,2020-02-27T10:03:03-06:00,Online Store,Canada,Ontario,Halton Hills,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,21.93,2.86,24.79
+2033660000000.0,2020-03-02T22:26:02-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,Vitamin B12,MYSHROOMS ENERGY,2,79.98,-13.33,0.0,66.65,0.0,3.33,69.98
+2033660000000.0,2020-03-02T22:26:02-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.99,1.93,19.92
+2033660000000.0,2020-03-02T22:26:02-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,MyShrooms Defence,MyShrooms Defence,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2036890000000.0,2020-03-05T10:32:46-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Defence,MyShrooms Defence,2,79.98,-8.0,0.0,71.98,0.0,9.36,81.34
+2036890000000.0,2020-03-05T10:32:46-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Immunity,MyShrooms Immunity,2,79.98,-8.0,0.0,71.98,0.0,9.36,81.34
+2036890000000.0,2020-03-05T10:32:46-06:00,Online Store,Canada,Ontario,Ear Falls,MyPain LiniMint,MyPain LiniMint,1,39.99,-4.0,0.0,35.99,0.0,4.68,40.67
+2036890000000.0,2020-03-05T10:32:46-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Immunity,MyShrooms Immunity,0,0.0,0.0,0.0,0.0,26.34,3.42,29.76
+2041580000000.0,2020-03-08T23:21:02-06:00,Online Store,Canada,Alberta,Drayton Valley,MyShrooms Immunity,MyShrooms Immunity,0,0.0,0.0,0.0,0.0,18.55,0.92,19.47
+2041580000000.0,2020-03-08T23:21:02-06:00,Online Store,Canada,Alberta,Drayton Valley,MyShrooms Immunity,MyShrooms Immunity,2,79.98,-10.0,0.0,69.98,0.0,3.5,73.48
+2041580000000.0,2020-03-08T23:21:02-06:00,Online Store,Canada,Alberta,Drayton Valley,MyShrooms Defence,MyShrooms Defence,1,39.99,-5.0,0.0,34.99,0.0,1.75,36.74
+2041580000000.0,2020-03-08T23:21:02-06:00,Online Store,Canada,Alberta,Drayton Valley,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-5.0,0.0,34.99,0.0,1.76,36.75
+2047010000000.0,2020-03-12T17:05:10-06:00,Online Store,Canada,Alberta,Saint Paul,MyShrooms Immunity,MyShrooms Immunity,6,239.94,0.0,0.0,239.94,0.0,12.0,251.94
+2047010000000.0,2020-03-12T17:05:10-06:00,Online Store,Canada,Alberta,Saint Paul,MyShrooms Defence,MyShrooms Defence,3,119.97,0.0,0.0,119.97,0.0,6.0,125.97
+2047010000000.0,2020-03-12T17:05:10-06:00,Online Store,Canada,Alberta,Saint Paul,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,24.64,1.23,25.87
+2050740000000.0,2020-03-15T20:21:44-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,3,119.97,0.0,0.0,119.97,0.0,6.0,125.97
+2050740000000.0,2020-03-15T20:21:44-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.72,1.89,19.61
+2051530000000.0,2020-03-16T14:55:47-06:00,Online Store,Canada,British Columbia,Victoria,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,14.65,1.72,16.37
+2051530000000.0,2020-03-16T14:55:47-06:00,Online Store,Canada,British Columbia,Victoria,MyShrooms Defence,MyShrooms Defence,2,79.98,0.0,0.0,79.98,0.0,3.99,83.97
+2053550000000.0,2020-03-18T08:17:49-06:00,Online Store,Canada,Ontario,Goderich,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,21.75,2.83,24.58
+2053550000000.0,2020-03-18T08:17:49-06:00,Online Store,Canada,Ontario,Goderich,Vitamin B12,MYSHROOMS ENERGY,2,79.98,0.0,0.0,79.98,0.0,10.39,90.37
+2055150000000.0,2020-03-19T13:57:56-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Immunity,MyShrooms Immunity,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2055150000000.0,2020-03-19T13:57:56-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,2,79.98,-13.33,0.0,66.65,0.0,3.33,69.98
+2055150000000.0,2020-03-19T13:57:56-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.39,2.03,19.42
+2055420000000.0,2020-03-19T18:31:37-06:00,Online Store,Canada,Saskatchewan,Regina,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.72,1.89,19.61
+2055420000000.0,2020-03-19T18:31:37-06:00,Online Store,Canada,Saskatchewan,Regina,MyShrooms Defence,MyShrooms Defence,3,119.97,-20.0,0.0,99.97,0.0,5.0,104.97
+2057830000000.0,2020-03-21T19:01:11-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2057830000000.0,2020-03-21T19:01:11-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,17.72,1.89,19.61
+2057830000000.0,2020-03-21T19:01:11-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,1,39.99,0.0,0.0,39.99,0.0,2.01,42.0
+2057890000000.0,2020-03-21T20:06:04-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.72,1.89,19.61
+2057890000000.0,2020-03-21T20:06:04-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2057890000000.0,2020-03-21T20:06:04-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,2,79.98,0.0,0.0,79.98,0.0,4.0,83.98
+2069370000000.0,2020-03-29T20:34:44-06:00,Online Store,United States,Oregon,Corvallis,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,11.71,0.0,11.71
+2069370000000.0,2020-03-29T20:34:44-06:00,Online Store,United States,Oregon,Corvallis,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,0.0,39.99
+2070750000000.0,2020-03-30T17:30:45-06:00,Online Store,Canada,Ontario,Windsor,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,20.13,2.61,22.74
+2070750000000.0,2020-03-30T17:30:45-06:00,Online Store,Canada,Ontario,Windsor,MyShrooms Defence,MyShrooms Defence,1,39.99,0.0,0.0,39.99,0.0,5.21,45.2
+2077950000000.0,2020-04-03T14:43:35-06:00,Online Store,Canada,Alberta,Vermilion,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,18.55,0.92,19.47
+2077950000000.0,2020-04-03T14:43:35-06:00,Online Store,Canada,Alberta,Vermilion,MyPain LiniMint,MyPain LiniMint,3,119.97,-20.0,0.0,99.97,0.0,5.01,104.98
+2087610000000.0,2020-04-08T15:43:43-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2087610000000.0,2020-04-08T15:43:43-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,17.58,1.88,19.46
+2087610000000.0,2020-04-08T15:43:43-06:00,Online Store,Canada,Saskatchewan,Moose Jaw,MyShrooms Defence,MyShrooms Defence,2,79.98,-13.33,0.0,66.65,0.0,3.33,69.98
+2089910000000.0,2020-04-09T09:52:06-06:00,Online Store,Canada,Saskatchewan,Preeceville,MyShrooms Defence,MyShrooms Defence,2,79.98,-13.34,0.0,66.64,0.0,3.33,69.97
+2089910000000.0,2020-04-09T09:52:06-06:00,Online Store,Canada,Saskatchewan,Preeceville,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.66,0.0,33.33,0.0,1.67,35.0
+2089910000000.0,2020-04-09T09:52:06-06:00,Online Store,Canada,Saskatchewan,Preeceville,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,21.35,2.29,23.64
+2125990000000.0,2020-04-24T08:42:13-06:00,Online Store,Canada,Ontario,Hamilton,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,19.49,2.53,22.02
+2125990000000.0,2020-04-24T08:42:13-06:00,Online Store,Canada,Ontario,Hamilton,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.67,0.0,33.32,0.0,4.34,37.66
+2125990000000.0,2020-04-24T08:42:13-06:00,Online Store,Canada,Ontario,Hamilton,MyShrooms Defence,MyShrooms Defence,2,79.98,-13.33,0.0,66.65,0.0,8.66,75.31
+2129810000000.0,2020-04-25T23:17:43-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,17.33,1.86,19.19
+2129810000000.0,2020-04-25T23:17:43-06:00,Online Store,Canada,Saskatchewan,Saskatoon,Vitamin B12,MYSHROOMS ENERGY,2,79.98,-13.33,0.0,66.65,0.0,3.33,69.98
+2129810000000.0,2020-04-25T23:17:43-06:00,Online Store,Canada,Saskatchewan,Saskatoon,MyShrooms Defence,MyShrooms Defence,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2135460000000.0,2020-04-28T11:24:19-06:00,Online Store,Canada,Alberta,Niton Junction,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,21.15,1.06,22.21
+2135460000000.0,2020-04-28T11:24:19-06:00,Online Store,Canada,Alberta,Niton Junction,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,4.0,83.98
+2155090000000.0,2020-05-05T13:27:28-06:00,Online Store,Canada,Ontario,Whitby,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,17.9,2.33,20.23
+2155090000000.0,2020-05-05T13:27:28-06:00,Online Store,Canada,Ontario,Whitby,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,10.39,90.37
+2169170000000.0,2020-05-12T09:23:58-06:00,Online Store,Canada,British Columbia,Edgewater,Vitamin B12,MYSHROOMS ENERGY,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2169170000000.0,2020-05-12T09:23:58-06:00,Online Store,Canada,British Columbia,Edgewater,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,13.81,1.61,15.42
+2169170000000.0,2020-05-12T09:23:58-06:00,Online Store,Canada,British Columbia,Edgewater,MyShrooms Defence,MyShrooms Defence,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2193680000000.0,2020-05-22T13:51:16-06:00,Online Store,Canada,British Columbia,North Vancouver,MyPain LiniMint,MyPain LiniMint,1,39.99,-6.66,0.0,33.33,0.0,1.67,35.0
+2193680000000.0,2020-05-22T13:51:16-06:00,Online Store,Canada,British Columbia,North Vancouver,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,12.66,1.47,14.13
+2193680000000.0,2020-05-22T13:51:16-06:00,Online Store,Canada,British Columbia,North Vancouver,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.67,0.0,33.32,0.0,1.66,34.98
+2193680000000.0,2020-05-22T13:51:16-06:00,Online Store,Canada,British Columbia,North Vancouver,MyShrooms Defence,MyShrooms Defence,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2200050000000.0,2020-05-25T13:28:19-06:00,Online Store,Canada,British Columbia,Powell River,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,13.81,1.61,15.42
+2200050000000.0,2020-05-25T13:28:19-06:00,Online Store,Canada,British Columbia,Powell River,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,4.0,83.98
+2202000000000.0,2020-05-26T11:48:47-06:00,Online Store,Canada,Ontario,London,Vitamin B12,MYSHROOMS ENERGY,3,119.97,-20.0,0.0,99.97,0.0,13.0,112.97
+2202000000000.0,2020-05-26T11:48:47-06:00,Online Store,Canada,Ontario,London,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,22.61,2.94,25.55
+2206570000000.0,2020-05-28T07:29:49-06:00,Online Store,Canada,Alberta,Camrose,MyPain LiniMint,MyPain LiniMint,3,119.97,0.0,0.0,119.97,0.0,6.0,125.97
+2206570000000.0,2020-05-28T07:29:49-06:00,Online Store,Canada,Alberta,Camrose,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,15.8,0.79,16.59
+2214600000000.0,2020-05-31T06:12:39-06:00,Online Store,Canada,Ontario,Markham,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,17.24,2.24,19.48
+2214600000000.0,2020-05-31T06:12:39-06:00,Online Store,Canada,Ontario,Markham,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,5.2,45.19
+2218940000000.0,2020-06-02T12:27:42-06:00,Online Store,Canada,Saskatchewan,Regina,MyShrooms Defence,MyShrooms Defence,1,39.99,-6.66,0.0,33.33,0.0,1.67,35.0
+2218940000000.0,2020-06-02T12:27:42-06:00,Online Store,Canada,Saskatchewan,Regina,Vitamin B12,MYSHROOMS ENERGY,2,79.98,-13.34,0.0,66.64,0.0,3.32,69.96
+2218940000000.0,2020-06-02T12:27:42-06:00,Online Store,Canada,Saskatchewan,Regina,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,15.5,1.67,17.17
+2219320000000.0,2020-06-02T16:30:18-06:00,Online Store,Canada,Saskatchewan,Assiniboia,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,19.05,2.05,21.1
+2219320000000.0,2020-06-02T16:30:18-06:00,Online Store,Canada,Saskatchewan,Assiniboia,Vitamin B12,MYSHROOMS ENERGY,3,119.97,-20.0,0.0,99.97,0.0,4.99,104.96
+2230230000000.0,2020-06-08T15:37:49-06:00,Online Store,Canada,Alberta,Calgary,Vitamin B12,MYSHROOMS ENERGY,3,119.97,-20.0,0.0,99.97,0.0,4.99,104.96
+2230230000000.0,2020-06-08T15:37:49-06:00,Online Store,Canada,Alberta,Calgary,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,15.5,0.78,16.28
+2240170000000.0,2020-06-13T20:50:46-06:00,Online Store,Canada,Alberta,Calgary,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,15.5,0.78,16.28
+2240170000000.0,2020-06-13T20:50:46-06:00,Online Store,Canada,Alberta,Calgary,MyShrooms Defence,MyShrooms Defence,3,119.97,-20.0,0.0,99.97,0.0,4.99,104.96
+2243310000000.0,2020-06-15T14:51:19-06:00,Online Store,Canada,Ontario,Essex,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,10.4,90.38
+2243310000000.0,2020-06-15T14:51:19-06:00,Online Store,Canada,Ontario,Essex,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,22.61,2.94,25.55
+2262620000000.0,2020-06-25T21:48:48-06:00,Online Store,Canada,Saskatchewan,Dalmeny,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,18.69,2.0,20.69
+2262620000000.0,2020-06-25T21:48:48-06:00,Online Store,Canada,Saskatchewan,Dalmeny,Vitamin B12,MYSHROOMS ENERGY,1,39.99,0.0,0.0,39.99,0.0,2.0,41.99
+2267290000000.0,2020-06-27T10:58:07-06:00,Online Store,United States,Oregon,Portland,MyPain LiniMint,MyPain LiniMint,5,199.95,0.0,0.0,199.95,0.0,0.0,199.95
+2267290000000.0,2020-06-27T10:58:07-06:00,Online Store,United States,Oregon,Portland,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,22.43,0.0,22.43
+2270020000000.0,2020-06-28T11:00:22-06:00,Online Store,United States,Delaware,Bear,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,0.0,39.99
+2270020000000.0,2020-06-28T11:00:22-06:00,Online Store,United States,Delaware,Bear,MyShrooms Immunity,MyShrooms Immunity,0,0.0,0.0,0.0,0.0,11.71,0.0,11.71
+2290100000000.0,2020-07-08T19:13:31-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Immunity,MyShrooms Immunity,4,159.96,-13.33,0.0,146.63,0.0,19.06,165.69
+2290100000000.0,2020-07-08T19:13:31-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,24.98,3.24,28.22
+2290100000000.0,2020-07-08T19:13:31-06:00,Online Store,Canada,Ontario,Ear Falls,MyShrooms Defence,MyShrooms Defence,2,79.98,-6.67,0.0,73.31,0.0,9.54,82.85
+2308150000000.0,2020-07-17T11:43:38-06:00,Online Store,Canada,British Columbia,Edegewater,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,13.55,1.58,15.13
+2308150000000.0,2020-07-17T11:43:38-06:00,Online Store,Canada,British Columbia,Edegewater,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2308150000000.0,2020-07-17T11:43:38-06:00,Online Store,Canada,British Columbia,Edegewater,MyShrooms Defence,MyShrooms Defence,1,39.99,-6.66,0.0,33.33,0.0,1.67,35.0
+2308150000000.0,2020-07-17T11:43:38-06:00,Online Store,Canada,British Columbia,Edegewater,MyShrooms Immunity,MyShrooms Immunity,1,39.99,-6.67,0.0,33.32,0.0,1.66,34.98
+2309000000000.0,2020-07-17T21:37:18-06:00,Online Store,Canada,British Columbia,North Vancouver,MyShrooms Immunity,MyShrooms Immunity,1,39.99,-6.67,0.0,33.32,0.0,1.67,34.99
+2309000000000.0,2020-07-17T21:37:18-06:00,Online Store,Canada,British Columbia,North Vancouver,Vitamin B12,MYSHROOMS ENERGY,2,79.98,-13.33,0.0,66.65,0.0,3.33,69.98
+2309000000000.0,2020-07-17T21:37:18-06:00,Online Store,Canada,British Columbia,North Vancouver,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,9.22,1.07,10.29
+2315260000000.0,2020-07-18T17:51:29-06:00,Online Store,Canada,British Columbia,Burnaby,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,9.22,1.07,10.29
+2315260000000.0,2020-07-18T17:51:29-06:00,Online Store,Canada,British Columbia,Burnaby,MyPain LiniMint,MyPain LiniMint,3,119.97,-20.0,0.0,99.97,0.0,5.0,104.97
+2328750000000.0,2020-07-26T11:12:10-06:00,Online Store,Canada,Manitoba,Winnipeg,MyPain LiniMint,MyPain LiniMint,2,79.98,0.0,0.0,79.98,0.0,4.0,83.98
+2328750000000.0,2020-07-26T11:12:10-06:00,Online Store,Canada,Manitoba,Winnipeg,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,17.06,1.99,19.05
+2335170000000.0,2020-07-29T19:52:52-06:00,Online Store,Canada,Ontario,Dundas,MyPain LiniMint,MyPain LiniMint,1,39.99,0.0,0.0,39.99,0.0,5.2,45.19
+2335170000000.0,2020-07-29T19:52:52-06:00,Online Store,Canada,Ontario,Dundas,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,16.92,2.2,19.12
+2338080000000.0,2020-07-31T11:09:37-06:00,Online Store,Canada,Saskatchewan,Yorkton,Vitamin B12,MYSHROOMS ENERGY,0,0.0,0.0,0.0,0.0,15.65,1.68,17.33
+2338080000000.0,2020-07-31T11:09:37-06:00,Online Store,Canada,Saskatchewan,Yorkton,Vitamin B12,MYSHROOMS ENERGY,1,39.99,-6.66,0.0,33.33,0.0,1.67,35.0
+2338080000000.0,2020-07-31T11:09:37-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,2,79.98,-13.34,0.0,66.64,0.0,3.32,69.96
+2383790000000.0,2020-08-25T22:12:55-06:00,Online Store,Canada,Saskatchewan,Prince Albert,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,16.85,1.8,18.65
+2383790000000.0,2020-08-25T22:12:55-06:00,Online Store,Canada,Saskatchewan,Prince Albert,MyPain LiniMint,MyPain LiniMint,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2388860000000.0,2020-08-28T21:54:39-06:00,Online Store,Canada,Saskatchewan,Regina,Vitamin B12,MyShrooms Energy,0,0.0,0.0,0.0,0.0,16.61,1.78,18.39
+2388860000000.0,2020-08-28T21:54:39-06:00,Online Store,Canada,Saskatchewan,Regina,Vitamin B12,MyShrooms Energy,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2388860000000.0,2020-08-28T21:56:26-06:00,Online Store,Canada,Saskatchewan,Regina,MyShrooms Immunity,MyShrooms Immunity,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2388860000000.0,2020-08-28T21:56:26-06:00,Online Store,Canada,Saskatchewan,Regina,Vitamin B12,MyShrooms Energy,0,0.0,0.0,0.0,0.0,16.61,1.78,18.39
+2388970000000.0,2020-08-29T00:02:56-06:00,Online Store,Canada,Saskatchewan,Churchbridge,Vitamin B12,MyShrooms Energy,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2388970000000.0,2020-08-29T00:02:56-06:00,Online Store,Canada,Saskatchewan,Churchbridge,MyShrooms Defence,MyShrooms Defence,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2388970000000.0,2020-08-29T00:02:56-06:00,Online Store,Canada,Saskatchewan,Churchbridge,MyShrooms Immunity,MyShrooms Immunity,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2423970000000.0,2020-09-18T12:34:57-06:00,Online Store,Canada,Manitoba,"Winnipeg, Mb",MyShrooms Immunity,MyShrooms Immunity,3,131.97,0.0,0.0,131.97,0.0,6.6,138.57
+2479060000000.0,2020-10-17T10:20:58-06:00,Online Store,Canada,British Columbia,Edgewater,Vitamin B12,MyShrooms Energy,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2479060000000.0,2020-10-17T10:20:58-06:00,Online Store,Canada,British Columbia,Edgewater,MyShrooms Immunity,MyShrooms Immunity,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2479060000000.0,2020-10-17T10:20:58-06:00,Online Store,Canada,British Columbia,Edgewater,MyShrooms Defence,MyShrooms Defence,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2480270000000.0,2020-10-18T08:32:48-06:00,Online Store,Canada,Manitoba,Winnipeg,MyShrooms Defence,MyShrooms Defence,2,87.98,0.0,0.0,87.98,0.0,4.4,92.38
+2480270000000.0,2020-10-18T08:32:48-06:00,Online Store,Canada,Manitoba,Winnipeg,MyShrooms Immunity,MyShrooms Immunity,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2480270000000.0,2020-10-18T08:32:48-06:00,Online Store,Canada,Manitoba,Winnipeg,MyShrooms Defence,MyShrooms Defence,0,0.0,0.0,0.0,0.0,18.95,2.21,21.16
+2496150000000.0,2020-10-28T12:05:44-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Defence,MyShrooms Defence,2,87.98,0.0,0.0,87.98,0.0,4.4,92.38
+2496150000000.0,2020-10-28T12:05:44-06:00,Online Store,Canada,Saskatchewan,Yorkton,MyShrooms Immunity,MyShrooms Immunity,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2505090000000.0,2020-11-02T20:07:36-06:00,Online Store,Canada,Alberta,Three Hills,MyPain LiniMint,MyPain LiniMint,1,43.99,0.0,0.0,43.99,0.0,2.19,46.18
+2505090000000.0,2020-11-02T20:07:36-06:00,Online Store,Canada,Alberta,Three Hills,MyShrooms Immunity,MyShrooms Immunity,0,0.0,0.0,0.0,0.0,20.28,1.02,21.3
+2505960000000.0,2020-11-03T12:25:52-06:00,Online Store,Canada,Manitoba,"Winnipeg, Mb",MyShrooms Immunity,MyShrooms Immunity,3,131.97,0.0,0.0,131.97,0.0,6.6,138.57
+2514110000000.0,2020-11-08T13:02:22-06:00,Online Store,Canada,Ontario,Cobourg,MyPain LiniMint,MyPain LiniMint,2,87.98,0.0,0.0,87.98,0.0,11.44,99.42
+2514110000000.0,2020-11-08T13:02:22-06:00,Online Store,Canada,Ontario,Cobourg,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,20.38,2.65,23.03
+2518660000000.0,2020-11-11T13:55:10-06:00,Online Store,Canada,Alberta,Calgary,MyPain LiniMint,MyPain LiniMint,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2518660000000.0,2020-11-11T13:55:10-06:00,Online Store,Canada,Alberta,Calgary,MyShrooms Energy,MyShrooms Energy,4,175.96,0.0,0.0,175.96,0.0,8.8,184.76
+2606650000000.0,2020-12-14T09:44:55-06:00,Online Store,Canada,Alberta,Calgary,MyPain LiniMint,MyPain LiniMint,3,131.97,0.0,0.0,131.97,0.0,6.6,138.57
+2610710000000.0,2020-12-16T12:07:15-06:00,Online Store,Canada,Alberta,Medicine Hat,MyPain LiniMint,MyPain LiniMint,1,43.99,0.0,0.0,43.99,0.0,2.2,46.19
+2610710000000.0,2020-12-16T12:07:15-06:00,Online Store,Canada,Alberta,Medicine Hat,MyShrooms Energy,MyShrooms Energy,0,0.0,0.0,0.0,0.0,16.84,0.84,17.68
+2613600000000.0,2020-12-18T08:22:58-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Energy,MyShrooms Energy,1,43.99,-26.0,0.0,17.99,0.0,2.34,20.33
+2613600000000.0,2020-12-18T08:22:58-06:00,Online Store,Canada,Ontario,Tillsonburg,MyPain LiniMint,MyPain LiniMint,4,175.96,-104.0,0.0,71.96,0.0,9.35,81.31
+2613600000000.0,2020-12-18T08:22:58-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Immune-Pro,MyShrooms Immune-Pro,4,175.96,-104.0,0.0,71.96,0.0,9.35,81.31
+2613600000000.0,2020-12-18T08:22:58-06:00,Online Store,Canada,Ontario,Tillsonburg,MyShrooms Immunity,MyShrooms Immunity,3,131.97,-78.0,0.0,53.97,0.0,7.02,60.99
+2616540000000.0,2020-12-20T11:21:15-06:00,Online Store,Canada,Saskatchewan,Regina,MyPain LiniMint,MyPain LiniMint,1,43.99,0.0,0.0,43.99,0.0,2.19,46.18
+2616540000000.0,2020-12-20T11:21:15-06:00,Online Store,Canada,Saskatchewan,Regina,MyPain LiniMint,MyPain LiniMint,0,0.0,0.0,0.0,0.0,16.7,1.79,18.49
+2620160000000.0,2020-12-23T11:16:46-06:00,Online Store,Canada,Ontario,Windsor,MyPain LiniMint,MyPain LiniMint,3,131.97,0.0,0.0,131.97,0.0,17.16,149.13
+2630850000000.0,2020-12-31T16:46:41-06:00,Sales Team,Canada,Ontario,St. Thomas,MyShrooms Immune-Pro,MyShrooms Immune-Pro,4,175.96,-76.0,0.0,99.96,0.0,13.0,112.96
+2630850000000.0,2020-12-31T16:46:41-06:00,Sales Team,Canada,Ontario,St. Thomas,MyShrooms Immunity,MyShrooms Immunity,4,175.96,-76.0,0.0,99.96,0.0,13.0,112.96
+2630850000000.0,2020-12-31T16:46:41-06:00,Sales Team,Canada,Ontario,St. Thomas,MyShrooms Defence,MyShrooms Defence,4,175.96,-76.0,0.0,99.96,0.0,12.99,112.95
+2630850000000.0,2020-12-31T16:46:41-06:00,Sales Team,Canada,Ontario,St. Thomas,MyPain LiniMint,MyPain LiniMint,8,351.92,-152.0,0.0,199.92,0.0,25.99,225.91
+2630850000000.0,2020-12-31T16:46:41-06:00,Sales Team,Canada,Ontario,St. Thomas,MyShrooms Energy,MyShrooms Energy,4,175.96,-76.0,0.0,99.96,0.0,12.99,112.95
